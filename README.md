@@ -2,8 +2,8 @@
 
 ## install
 
-`$ git clone https://github.com/tamurahey/jupyter_magic`  
-`$ cp jupyter_magic/atcoder_test.py ~/.ipython/profile_default/startup/`
+`$ git clone https://github.com/tamuhey/atcoder_jupyter`  
+`$ cp atcoder_jupyter/atcoder_test.py ~/.ipython/profile_default/startup/`
 
 ## How to Use
 
